@@ -1,5 +1,5 @@
 # Chasing_Ball
-Raspberry Pi based robot chases a ball using PID control and combination of various sensory data
+Raspberry Pi based robot chases a ball using PID control and combination of sensory data
 
 PID control and combining multiple sensor inputs (camera and lidar). The goal was to have the robot chase a desired object observed in its localcoordinate frame. Specifically, this meant the robot always faced the object and maintained a desired distance from the object. 
 
